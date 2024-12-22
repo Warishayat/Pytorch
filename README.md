@@ -6,8 +6,4 @@ Built-in Optimizer
 <br>
 Built-in functions
 <br>
-....
-<BR>
-Preperation for final exam. 
-.... 
-Leave 
+Leave for exam
